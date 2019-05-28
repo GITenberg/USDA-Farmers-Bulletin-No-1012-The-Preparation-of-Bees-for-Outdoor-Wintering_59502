@@ -1,5 +1,8 @@
 _repo: USDA-Farmers-Bulletin-No-1012-The-Preparation-of-Bees-for-Outdoor-Wintering_59502
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59502-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Demuth, George S.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '44850'
     url: http://www.gutenberg.org/2009/agents/44850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59502#USDA-Farmers-Bulletin-No-1012-The-Preparation-of-Bees-for-Outdoor-Wintering
 gutenberg_issued: '2019-05-14'
 gutenberg_type: Text
 identifiers:
